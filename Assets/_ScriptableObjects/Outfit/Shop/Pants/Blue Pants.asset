@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee8535e578b604ba45443b7a9d3311, type: 3}
+  m_Name: Blue Pants
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -1292812154, guid: f3bf6a9d5aad48640b51533d05df6772, type: 3}
+  Name: Pants Blue
+  Cost: 50

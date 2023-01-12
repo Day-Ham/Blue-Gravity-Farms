@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70b63d3613cf5f4881cd046fdbfadbc, type: 3}
+  m_Name: Coffee Table White
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Coffee Table White
+  <Cost>k__BackingField: 10
+  <Prefab>k__BackingField: {fileID: 168631897432587539, guid: 97d75b6422f8e034297299421b62b0b9, type: 3}
+  <Icon>k__BackingField: {fileID: -227453619, guid: 3d590e69c5de94a498783a06af306df0, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee8535e578b604ba45443b7a9d3311, type: 3}
+  m_Name: Witch
+  m_EditorClassIdentifier: 
+  outfit: {fileID: 9100000, guid: c85d1b202213ff14c81f2c6b7c7c7e84, type: 2}
+  Icon: {fileID: -1757932053, guid: 9672167ace2a1aa4abcf89f09b3e831b, type: 3}
+  Name: Witch
+  Cost: 50

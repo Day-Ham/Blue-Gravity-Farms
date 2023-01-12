@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee8535e578b604ba45443b7a9d3311, type: 3}
+  m_Name: Suit
+  m_EditorClassIdentifier: 
+  outfit: {fileID: 9100000, guid: 52871773f0f487f4583718abbb78d224, type: 2}
+  Icon: {fileID: -136442281, guid: 1e81a9071b47c3c4cb018bcae1813da8, type: 3}
+  Name: Suit
+  Cost: 50

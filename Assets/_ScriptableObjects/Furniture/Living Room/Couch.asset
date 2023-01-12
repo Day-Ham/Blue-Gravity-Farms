@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70b63d3613cf5f4881cd046fdbfadbc, type: 3}
+  m_Name: Couch
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Couch
+  <Cost>k__BackingField: 10
+  <Prefab>k__BackingField: {fileID: 644667133574446286, guid: 29a9b00cd9c56514194e5b652e579395, type: 3}
+  <Icon>k__BackingField: {fileID: -1344709762, guid: c8db8852f2bccaf4d97b05c8457f9184, type: 3}

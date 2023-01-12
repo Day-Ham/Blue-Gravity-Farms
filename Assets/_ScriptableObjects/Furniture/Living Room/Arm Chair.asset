@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70b63d3613cf5f4881cd046fdbfadbc, type: 3}
+  m_Name: Arm Chair
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Arm Chair
+  <Cost>k__BackingField: 10
+  <Prefab>k__BackingField: {fileID: 8691308436541228346, guid: 82d9a08bd27ce7c4a82ddcd9581bc3f9, type: 3}
+  <Icon>k__BackingField: {fileID: 2006766465, guid: c8db8852f2bccaf4d97b05c8457f9184, type: 3}
